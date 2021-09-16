@@ -22,7 +22,7 @@
 -   **License:** Open-Source Hardware
 -   **URL:** <https://github.com/janelia-kicad/y_arena_valve_controller>
 -   **Author:** Peter Polidoro
--   **Email:** peterpolidoro@gmail.com
+-   **Email:** peter@polidoro.io
 
 
 <a id="orgf515803"></a>
