@@ -113,7 +113,7 @@ This board controls the y-arena valves for the Turner lab.
 ## Supplemental Parts
 
 | Item | Quantity | Manufacturer                 | Manufacturer Part Number        | Vendor   | Vendor Part Number                 | Description                      |
-|---- |-------- |---------------------------- |------------------------------- |-------- |---------------------------------- |-------------------------------- |
+|------|----------|------------------------------|---------------------------------|----------|------------------------------------|----------------------------------|
 | 1    | 1        | SparkFun Electronics         | DEV-15583                       | Digi-Key | 1568-DEV-15583-ND                  | TEENSY 4.0                       |
 | 2    | 2        | Molex                        | 0022284146                      | Digi-Key | WM24210-ND                         | CONN HEADER VERT 14POS 2.54MM    |
 | 3    | 1        | Qualtek                      | 3021075-03                      | Digi-Key | Q1223-ND                           | USB 2.0 A MALE TO USB 2.0 MICRO  |
@@ -130,6 +130,7 @@ This board controls the y-arena valves for the Turner lab.
 | 14   | 1        | Tripp Lite                   | U352-000-MD                     | Digi-Key | TL825-ND                           | USB 3.0 MULTI-DRIVE SD CF MS     |
 | 15   | 1        | Tripp Lite                   | U336-000-R                      | Digi-Key | TL824-ND                           | USB 3.0 TO ETHERNET ADAPTER      |
 | 16   | 1        | Assmann WSW Components       | A-MCSSP60010/B                  | Digi-Key | AE10190-ND                         | CABLE MOD 8P8C PLUG-PLUG 3.28FT  |
+| 17   | 9        | The Lee Company              | LHDB1252115H                    | theleeco |                                    |                                  |
 
 
 <a id="orgea142e0"></a>
